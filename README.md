@@ -9,3 +9,5 @@ Following settings can be customized:
  * cooldown between each spawns
  * particle mode (spawned objects are moving outwards from spawner)
  * particles velocity
+
+![My image](https://github.com/marcin-se/ue4_object_pooling/blob/master/ue4_object_pooling_demo.gif)
